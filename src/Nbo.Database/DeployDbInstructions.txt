@@ -1,0 +1,5 @@
+﻿This particular solution is using Aspnetcore migrations. 
+Open the folder in command prompt that has Main.cs file.
+
+type dotnet (if you get an error you do not have the correct tooling) Go to: dot.net and get the aspnetcore tooling
+dotnet ef database update  command should deploy the database using the connection string 

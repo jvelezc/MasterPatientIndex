@@ -1,0 +1,4 @@
+﻿Install-Package Microsoft.EntityFrameworkCore.Tools –Pre
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+NBO.MicroApi Project
+Install-Package Swashbuckle -Pre
